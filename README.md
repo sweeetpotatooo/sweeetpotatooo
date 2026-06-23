@@ -29,10 +29,10 @@ I build with a user-centered mindset, turning real needs into simple, practical,
 ## About Me
 
 - I care about understanding users before choosing solutions.
-- I like creating clean, useful web experiences that reduce friction.
-- I learn best by building, testing, listening, and improving.
-- I'm interested in frontend development, product thinking, and AI-powered tools.
-- I keep improving one project at a time.
+- I like creating useful web experiences that reduce friction.
+- I like to analyze problems with data-driven thinking.
+- I value communication and have developed the ability to communicate with people from other departments.
+- I'm interested in product thinking.
 
 ## Featured Projects
 
