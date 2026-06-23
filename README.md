@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:22C55E&height=220&section=header&text=sweeetpotatooo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building,%20learning,%20and%20turning%20ideas%20into%20useful%20things&descAlignY=58&descSize=16)
 
-### Hi, I'm sweeetpotatooo
+### Hi, I'm Sehyun
 
 I enjoy building practical projects, learning through code, and making small ideas feel real on the web.
 
