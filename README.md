@@ -8,6 +8,7 @@ I enjoy building practical projects, learning through code, and making small ide
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sweeetpotatooo&label=Profile%20views&color=0ea5e9&style=flat)](https://github.com/sweeetpotatooo)
 [![GitHub followers](https://img.shields.io/github/followers/sweeetpotatooo?label=Followers&style=flat&color=22c55e)](https://github.com/sweeetpotatooo?tab=followers)
+[![Blog](https://img.shields.io/badge/Blog-innercommit-0EA5E9?style=flat&logo=vercel&logoColor=white)](https://innercommit.vercel.app/)
 
 </div>
 
@@ -21,6 +22,7 @@ I enjoy building practical projects, learning through code, and making small ide
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -35,15 +37,15 @@ I enjoy building practical projects, learning through code, and making small ide
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Project 1](https://github.com/sweeetpotatooo) | Add your favorite project here. | React, TypeScript |
-| [Project 2](https://github.com/sweeetpotatooo) | Add another project you want people to see. | Next.js, Node.js |
-| [Project 3](https://github.com/sweeetpotatooo) | Add a project that shows your growth. | Python |
+| [jungle-final-team5](https://github.com/jungle-final-team5) | Final team project organization from the Jungle program. | Team Project |
+| [kummate](https://github.com/sweeetpotatooo/kummate) | A web project focused on building a useful product experience. | Web, Frontend |
+| [JUNGLE-Pintos-VM](https://github.com/sweeetpotatooo/JUNGLE-Pintos-VM) | Operating system project based on Pintos virtual memory. | C, OS |
 
 ## Blog
 
-<!-- BLOG-POST-LIST:START -->
-- Coming soon. Add your blog RSS automation here later.
-<!-- BLOG-POST-LIST:END -->
+I write notes about learning, building, and the small commits that add up.
+
+[![Read My Blog](https://img.shields.io/badge/Read%20my%20blog-innercommit.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://innercommit.vercel.app/)
 
 ## GitHub Stats
 
@@ -60,7 +62,7 @@ I enjoy building practical projects, learning through code, and making small ide
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-sweeetpotatooo-181717?style=flat&logo=github&logoColor=white)](https://github.com/sweeetpotatooo)
-[![Blog](https://img.shields.io/badge/Blog-Coming%20soon-0EA5E9?style=flat&logo=velog&logoColor=white)](https://github.com/sweeetpotatooo)
+[![Blog](https://img.shields.io/badge/Blog-innercommit-0EA5E9?style=flat&logo=vercel&logoColor=white)](https://innercommit.vercel.app/)
 
 <div align="center">
 
