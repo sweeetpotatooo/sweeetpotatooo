@@ -4,7 +4,7 @@
 
 ### Hi, I'm Sehyun
 
-I enjoy building practical projects, learning through code, and making small ideas feel real on the web.
+I build with a user-centered mindset, turning real needs into simple, practical, and thoughtful web experiences.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sweeetpotatooo&label=Profile%20views&color=0ea5e9&style=flat)](https://github.com/sweeetpotatooo)
 [![GitHub followers](https://img.shields.io/github/followers/sweeetpotatooo?label=Followers&style=flat&color=22c55e)](https://github.com/sweeetpotatooo?tab=followers)
@@ -28,9 +28,10 @@ I enjoy building practical projects, learning through code, and making small ide
 
 ## About Me
 
-- I like creating clean, useful web experiences.
-- I learn best by building, breaking, fixing, and shipping.
-- I'm interested in frontend development, product ideas, and AI-powered tools.
+- I care about understanding users before choosing solutions.
+- I like creating clean, useful web experiences that reduce friction.
+- I learn best by building, testing, listening, and improving.
+- I'm interested in frontend development, product thinking, and AI-powered tools.
 - I keep improving one project at a time.
 
 ## Featured Projects
